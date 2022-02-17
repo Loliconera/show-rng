@@ -4,7 +4,7 @@ module.exports = function showRNG(mod) {
         return true;
     });
 
-    mod.hook('S_REGISTER_ENCHANT_ITEM', 3, e => {
+    mod.hook('S_REGISTER_ENCHANT_ITEM', 4, e => {
         e.hideSuccessChance = false;
         return true;
     });
