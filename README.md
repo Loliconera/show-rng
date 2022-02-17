@@ -1,7 +1,7 @@
-# What it does?
-Displays RNG on Relic/Halidom enchanting
+# ¿Que hace?
+Muestra RNG en Reliquia / Halidom encantador
 
-*Theoretically on PvP gear too™*
+*Teóricamente también en equipo PvP™*
 
 ### Sample
 ![halidom1](https://i.imgur.com/wjQSuqn.png)
