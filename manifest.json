@@ -1,11 +1,11 @@
 {
     "files": {
         "README.md": "d5ad208e26bc346c6eb627033dd68e08c7453b85c7f36d1032bedc4ee7964a7c",
-        "index.js": "2beb4c0965bd092eeb4fde6abe4aa0dfbbe22a759581b6b6b91bb0bba17d624c",
+        "index.js": "eb4c957df6c8e3441d0519bafda9a9261e5767532e0fbb93dbb0510ad45b626f",
         "module.json": "fa1e23881ee2bc63c5f29df323642af53f94b84e653661f06391700918fd95fc"
     },
     "defs": {
-        "S_REGISTER_ENCHANT_ITEM": 4,
+        "S_REGISTER_ENCHANT_ITEM": 5,
         "S_REGISTER_EVOLUTION_ITEM": 3
     }
 }
